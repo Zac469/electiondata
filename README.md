@@ -30,3 +30,7 @@ First-preference votes are counted.
 If a candidate reaches the quota, they are elected. Any surplus votes are distributed proportionally.
 The lowest-ranked candidates are eliminated, and votes are transferred.
 This process continues until all seats are filled.
+
+Other useful predictors
+https://au.yougov.com/elections/au/2025
+https://www.pollbludger.net/fed2025/Overview.htm?
